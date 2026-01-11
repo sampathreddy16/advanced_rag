@@ -8,7 +8,7 @@ langchain-text-splitters
 langchain-cohere
 langchain-aws
 
-langchain langchain-google-genai google-genai
+
 # OpenAI SDK - Latest version
 openai
 

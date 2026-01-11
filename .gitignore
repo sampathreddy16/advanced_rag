@@ -4,6 +4,7 @@ env/
 .venv/
 venvqa/
 venvhyde/
+venvadv/
 
 # Environment variables
 .env
@@ -26,5 +27,8 @@ Thumbs.db
 *.log
 
 # data files
-
+0.20.0
+4.38.0
+.deepeval/
+.data/
 
